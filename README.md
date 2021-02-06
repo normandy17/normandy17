@@ -1,8 +1,9 @@
-### Hi there 👋,I'm Charleson Davis!
+### Hi there 👋,I'm Charleson!
 ### 🌱 I'm currently learning MERN Stack
 ### 📫 How to reach me: charlesondavis@gmail.com
 <div align='center'>
   ### My stats
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=normandy17&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
  </div>
 <!--
