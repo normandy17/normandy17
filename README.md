@@ -3,7 +3,7 @@
 ### 📫 How to reach me: charlesondavis@gmail.com
 <div align='center'>
   ### My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=syedshamsher&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=normandy17&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true)
  </div>
 <!--
 **normandy17/normandy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
