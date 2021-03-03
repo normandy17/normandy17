@@ -7,12 +7,7 @@
 - 👯 I’m looking to collaborate with other devs
 - 🥅 2021 Goals: proficient SDE and learn random forest 
 
-### Connect with me:
-[<img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/18-182164_website-symbol-png-clip-art-black-and-white.png" />][website]
-[<img align="left" alt="" width="40px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" />][linkedin]
-[<img align="left" alt="" width="40px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
-[<img align="left" alt="" width="40px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="" width="40px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" />][instagram]
+
 
 <br />
 
@@ -30,15 +25,27 @@
 
 
 <br />
-<br />
+
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=normandy17&show_icons=true&hide_border=true" />
-
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=normandy17&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
 </details>
+<details>
+  <summary>:zap: Languages</summary>
+  <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normandy17&layout=compact&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
+</details>
+
+<br/>
+
+### Connect with me:
+[<img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/18-182164_website-symbol-png-clip-art-black-and-white.png" />][website]
+[<img align="left" alt="" width="40px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" />][linkedin]
+[<img align="left" alt="" width="40px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
+[<img align="left" alt="" width="40px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
+[<img align="left" alt="" width="40px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" />][instagram]
+
 
 [website]: https://normandy17.github.io/Portfolio/
 [twitter]: https://twitter.com/CharlesonDavis
