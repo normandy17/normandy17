@@ -39,6 +39,7 @@
 
 <br/>
 
+<p/>
 ### Connect with me:
 [<img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/18-182164_website-symbol-png-clip-art-black-and-white.png" />][website]
 [<img align="left" alt="" width="40px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" />][linkedin]
