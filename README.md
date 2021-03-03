@@ -33,9 +33,9 @@
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normandy17&layout=compact&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
 </details>
 
-<h3><Connect/h3>  
+
   
-### 
+##
 [<img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/18-182164_website-symbol-png-clip-art-black-and-white.png" />][website]
 [<img align="left" alt="" width="40px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" />][linkedin]
 [<img align="left" alt="" width="40px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
