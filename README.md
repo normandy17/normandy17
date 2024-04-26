@@ -3,7 +3,8 @@
 ## I'm a Full Stack Developer and an aspiring Data Scientist!!
 
 
-Welcome to my GitHub profile! 👋 I'm a seasoned Full Stack Developer with three years of experience mastering the MERN stack. Passionate about solving bugs and delivering end-to-end features that elevate user experiences. Proficient in managing GitHub pipelines and releases to ensure seamless project deployment. Let's build together! 🚀
+Welcome to my GitHub profile!<br/> 
+👋 I'm a seasoned Full Stack Developer with three years of experience mastering the MERN stack. Passionate about solving bugs and delivering end-to-end features that elevate user experiences. Proficient in managing GitHub pipelines and releases to ensure seamless project deployment. Let's build together! 🚀
 
 
 
