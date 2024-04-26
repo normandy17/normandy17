@@ -2,10 +2,8 @@
 
 ## I'm a Full Stack Developer and an aspiring Data Scientist!!
 
-- 🔭 Prepping to deploy my career as a FullStack Developer
-- 🌱 I’m currently learning MERN stack
-- 👯 I’m looking to collaborate with other devs
-- 🥅 2021 Goals: proficient SDE and learn random forest 
+
+Welcome to my GitHub profile! 👋 I'm a seasoned Full Stack Developer with three years of experience mastering the MERN stack. Passionate about solving bugs and delivering end-to-end features that elevate user experiences. Proficient in managing GitHub pipelines and releases to ensure seamless project deployment. Let's build together! 🚀
 
 
 
