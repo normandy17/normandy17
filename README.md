@@ -27,6 +27,7 @@ Welcome to my GitHub profile!<br/>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=normandy17&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
 </details>
+<br/>
 <details>
   <summary>:zap: Languages</summary>
   <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normandy17&layout=compact&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
