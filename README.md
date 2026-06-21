@@ -1,50 +1,72 @@
-### Hi there, I'm Charleson - aka [normandy][website] 👋
+<h1 align="center">Hi there, I'm Charleson 👋 <i>aka</i> <a href="https://normandy17.github.io/Portfolio/">normandy</a></h1>
+<h3 align="center">Full Stack Developer & Aspiring AI Engineer</h3>
 
-## I'm a Full Stack Developer and an aspiring Data Scientist!!
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-FFB347.svg?style=for-the-badge&labelColor=4A2E00" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Based%20in-Germany-FFB347.svg?style=for-the-badge&labelColor=4A2E00" alt="Location"/>
+</p>
 
+<p align="center">
+👋 I'm a Full Stack Developer with 3+ years mastering the <b>MERN stack</b>, now leveling up into <b>AI Engineering</b> — building with LLMs, RAG pipelines, and intelligent agents. I love solving bugs, shipping end-to-end features, and turning ideas into working products. Currently job hunting in Germany and open to new opportunities — let's build together! 🚀
+</p>
 
-Welcome to my GitHub profile!<br/> 
-👋 I'm a seasoned Full Stack Developer with three years of experience mastering the MERN stack. Passionate about solving bugs and delivering end-to-end features that elevate user experiences. Proficient in managing GitHub pipelines and releases to ensure seamless project deployment. Let's build together! 🚀
-
-
-
-<br />
-
-### Languages and Tools:
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=normandy17&show_icons=true" />
-</details>
 <br/>
-<details>
-  <summary>:zap: Languages</summary>
-  <img align="left" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normandy17&layout=compact&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"" />
-</details>
 
+## 🛠️ Tech Stack
 
-  
-##
-[<img align="left" alt="" width="40px" src="https://www.pngkey.com/png/full/18-182164_website-symbol-png-clip-art-black-and-white.png" />][website]
-[<img align="left" alt="" width="40px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background.png" />][linkedin]
-[<img align="left" alt="" width="40px" src="https://i.pinimg.com/originals/de/1c/91/de1c91788be0d791135736995109272a.png" />][youtube]
-[<img align="left" alt="" width="40px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="" width="40px" src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" />][instagram]
+<h4>Frontend</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css&theme=dark" alt="Frontend stack"/>
+</p>
 
+<h4>Backend & Database</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sqlite&theme=dark" alt="Backend stack"/>
+</p>
 
-[website]: https://normandy17.github.io/Portfolio/
-[twitter]: https://twitter.com/CharlesonDavis
-[youtube]: https://www.youtube.com/playlist?list=PLXXVxxzKURJnpFJujR7QOMrsC6pix5zYt
-[instagram]: https://www.instagram.com/normandy1717
-[linkedin]: https://www.linkedin.com/in/charleson%C2%B0davis/
+<h4>AI / ML</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI/ML stack"/>
+  <img height="32" src="https://img.shields.io/badge/LangChain-1C1C1C.svg?style=for-the-badge&logo=langchain&logoColor=%23FFB347" alt="LangChain"/>
+  <img height="32" src="https://img.shields.io/badge/LangGraph-1C1C1C.svg?style=for-the-badge&logoColor=%23FFB347" alt="LangGraph"/>
+  <img height="32" src="https://img.shields.io/badge/RAG-1C1C1C.svg?style=for-the-badge&logoColor=%23FFB347" alt="RAG"/>
+  <img height="32" src="https://img.shields.io/badge/ChromaDB-1C1C1C.svg?style=for-the-badge&logoColor=%23FFB347" alt="ChromaDB"/>
+</p>
+
+<h4>ML Libraries</h4>
+<p align="left">
+  <img height="32" src="https://img.shields.io/badge/Scikit--Learn-1C1C1C.svg?style=for-the-badge&logo=scikitlearn&logoColor=%23FFB347" alt="Scikit-Learn"/>
+  <img height="32" src="https://img.shields.io/badge/Transformers-1C1C1C.svg?style=for-the-badge&logo=huggingface&logoColor=%23FFB347" alt="Hugging Face Transformers"/>
+  <img height="32" src="https://img.shields.io/badge/Pandas-1C1C1C.svg?style=for-the-badge&logo=pandas&logoColor=%23FFB347" alt="Pandas"/>
+  <img height="32" src="https://img.shields.io/badge/NumPy-1C1C1C.svg?style=for-the-badge&logo=numpy&logoColor=%23FFB347" alt="NumPy"/>
+</p>
+
+<h4>DevOps & Tools</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,githubactions&theme=dark" alt="DevOps stack"/>
+</p>
+
+<br/>
+
+> **Also working with:** Vector Search · NLP · Generative AI · Prompt Engineering · REST APIs · Agile / Scrum · Data Structures & Algorithms
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=normandy17&show_icons=true&theme=gotham&title_color=FFB347&icon_color=FFB347&text_color=ffffff&bg_color=0d1117&border_color=FFB347" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=normandy17&layout=compact&theme=gotham&title_color=FFB347&text_color=ffffff&bg_color=0d1117&border_color=FFB347&hide_border=false" />
+</p>
+
+<br/>
+
+## 🔗 Connect with me
+
+<p align="left">
+  <a href="https://normandy17.github.io/Portfolio/"><img height="40" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23FFB347.svg?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/charleson%C2%B0davis/"><img height="40" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23FFB347.svg?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://twitter.com/CharlesonDavis"><img height="40" alt="Twitter" src="https://img.shields.io/badge/Twitter-%23FFB347.svg?style=for-the-badge&logo=x&logoColor=black"/></a>
+  <a href="https://www.instagram.com/normandy1717"><img height="40" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FFB347.svg?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+  <a href="https://www.youtube.com/playlist?list=PLXXVxxzKURJnpFJujR7QOMrsC6pix5zYt"><img height="40" alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FFB347.svg?style=for-the-badge&logo=youtube&logoColor=black"/></a>
+</p>
